@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """https://leetcode.com/problems/happy-number/description/
-    BigO:
+    BigO: O(log(n))
 """
 
 

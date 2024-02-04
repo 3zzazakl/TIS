@@ -4,6 +4,11 @@
 """
 
 class Solution(object):
+    """_summary_
+
+    Args:
+        object (_type_): _description_
+    """
     def maxProfit(self, prices):
         """
         :type prices: List[int]

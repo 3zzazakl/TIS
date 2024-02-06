@@ -3,7 +3,7 @@
 #
 # [88] Merge Sorted Array
 #
-# BugO = O(m + n)
+# BugO = O(m + n) #
 # @lc code=start
 class Solution:
     def merge(self, nums1, m, nums2, n):

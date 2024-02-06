@@ -3,7 +3,7 @@
 #
 # [167] Two Sum II - Input Array Is Sorted
 #
-
+# BigO: O(n)
 # @lc code=start
 class Solution:
     def twoSum(self, numbers, target):
